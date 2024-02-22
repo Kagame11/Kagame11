@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kagame11
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Relational database
+- 🌱 I’m currently doing laravel Authentication
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me contact me on intwari.k.fred@gmail.com
 
