@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kagame11
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently doing AI Research
-- 💞️ I’m looking to collaborate on AI Training projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently doing laravel
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me contact me on intwari.k.fred@gmail.com
 
 <!---
